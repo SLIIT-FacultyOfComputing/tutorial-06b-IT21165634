@@ -1,6 +1,7 @@
 #include "Box.h"
 
 // Implement setters and getters
+
 void Box::setLength(int l){
   length = l;
 }
